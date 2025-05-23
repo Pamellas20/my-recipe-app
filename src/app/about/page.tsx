@@ -5,11 +5,11 @@ export default function About() {
       
       <div className="max-w-2xl mx-auto bg-white p-6 rounded-lg shadow-sm">
         <p className="mb-4">
-          Welcome to our simple recipe collection! We love sharing delicious, easy-to-make recipes that everyone can enjoy.
+          Welcome to our simple recipe collection! We love sharing delicious easy to make recipes that everyone can enjoy.
         </p>
         
         <p className="mb-4">
-          Our recipes focus on using fresh ingredients and simple techniques to create tasty meals at home. Whether you're a beginner or experienced cook, you'll find something to enjoy here.
+          Our recipes focus on using fresh ingredients and simple techniques to create tasty meals at home. Whether you are a beginner or experienced cook  you will find something to enjoy here.
         </p>
         
         <p>
